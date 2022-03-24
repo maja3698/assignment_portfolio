@@ -110,17 +110,15 @@ a:hover {
   max-height: 2.7rem;
 }
 
-
 .CTA_button {
   border-radius: 15px;
   background-color: var(--color-ctas);
   color: var(--white);
   max-width: 10rem;
   max-height: 2.7rem;
-  
 }
 
-.CTA_button:hover{
+.CTA_button:hover {
   animation: scale 0.3s forwards;
 }
 
@@ -189,7 +187,6 @@ nav a {
   float: right;
 
   cursor: pointer;
- 
 }
 
 .exitButton {
@@ -236,7 +233,6 @@ nav a {
 }
 
 header {
-  
   display: flex;
   min-height: 96vh;
   justify-content: space-evenly;
@@ -371,7 +367,6 @@ header {
   column-count: 2;
   column-gap: 2rem;
   margin-top: 1rem;
- 
 }
 
 #gallery {
